@@ -4,4 +4,3 @@ public class BOJ2557 {
         System.out.println("Hello World!");
     }
 }
-ß
