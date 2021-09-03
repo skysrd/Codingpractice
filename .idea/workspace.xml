@@ -42,8 +42,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="BOJ2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630548763611</updated>
       <workItem from="1630548765588" duration="216000" />
-      <workItem from="1630549006347" duration="15823000" />
+      <workItem from="1630549006347" duration="17018000" />
     </task>
     <task id="LOCAL-00001" summary="Hello, World!">
       <created>1630549617111</created>
@@ -167,7 +167,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
