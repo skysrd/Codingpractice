@@ -6,14 +6,13 @@ import java.util.Scanner;
 
         String string = scanner.nextLine();
 
-        int result=1;
+        String[] result = string.trim().split(" ");
 
-        for (int i=1; i<string.length()-1; i++) {
-            if (string.charAt(i) == ' '&&string.charAt(i+1)!=' ') {
-                result++;
-            }
-
+        if (string.isBlank()) {
+            System.out.println(0);
         }
-        System.out.println(result);
+        else {
+            System.out.println(result.length);
+        }
     }
 }
