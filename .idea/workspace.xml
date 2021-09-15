@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0bf63ea-7144-436c-8f5f-34c6fe2ae9aa" name="Changes" comment="[BOJ-2010]">
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Codetest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Codetest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Codetest.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Codetest.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Codetest.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Codetest.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -117,7 +110,7 @@
       <workItem from="1631511013197" duration="108000" />
       <workItem from="1631511140139" duration="338000" />
       <workItem from="1631511920404" duration="194000" />
-      <workItem from="1631512474758" duration="12000" />
+      <workItem from="1631512474758" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="Hello, World!">
       <created>1630549617111</created>
