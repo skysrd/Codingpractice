@@ -6,8 +6,8 @@
 
  vector<long long> solution(int x, int n) {
      vector<long long> answer;
-     for(int i=0; i<n; i++) {
+     for(int i=0; i<n; i++) {ß
          answer.push_back(x+(i*x));
      }
      return answer;
- }
+ }∑

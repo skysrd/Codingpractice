@@ -7,6 +7,7 @@
     <list default="true" id="f0bf63ea-7144-436c-8f5f-34c6fe2ae9aa" name="Changes" comment="[BOJ-2010]">
       <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12950.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12954.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers_12969" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/BOJ2839.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PGM_HSH1.java" afterDir="false" />
     </list>
@@ -47,6 +48,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
@@ -115,7 +124,7 @@
       <workItem from="1631511920404" duration="194000" />
       <workItem from="1631512474758" duration="1129000" />
       <workItem from="1631685699774" duration="2417000" />
-      <workItem from="1635905644840" duration="1024000" />
+      <workItem from="1635905644840" duration="1267000" />
     </task>
     <task id="LOCAL-00001" summary="Hello, World!">
       <created>1630549617111</created>
