@@ -15,8 +15,5 @@ string solution(string phone_number) {
         answer.push_back('*');
         }
     }
-
-
-
     return answer;
 }
