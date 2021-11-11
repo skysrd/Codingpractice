@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0bf63ea-7144-436c-8f5f-34c6fe2ae9aa" name="Changes" comment="[BOJ-2010]">
       <change afterPath="$PROJECT_DIR$/src/main/cpp/BOJ2609.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12933.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12934.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12935.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/cpp/Programmers12937.cpp" afterDir="false" />
@@ -135,7 +136,7 @@
       <workItem from="1631511920404" duration="194000" />
       <workItem from="1631512474758" duration="1129000" />
       <workItem from="1631685699774" duration="2417000" />
-      <workItem from="1635905644840" duration="10453000" />
+      <workItem from="1635905644840" duration="11119000" />
     </task>
     <task id="LOCAL-00001" summary="Hello, World!">
       <created>1630549617111</created>
